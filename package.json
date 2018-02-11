@@ -1,0 +1,23 @@
+{
+  "name": "ceep-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tresende/ceep-pwa.git"
+  },
+  "author": "tresende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tresende/ceep-pwa/issues"
+  },
+  "homepage": "https://github.com/tresende/ceep-pwa#readme",
+  "devDependencies": {
+    "connect": "^3.6.5",
+    "serve-static": "^1.13.2"
+  }
+}
