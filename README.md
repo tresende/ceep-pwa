@@ -1,4 +1,4 @@
-# ceep-pwa
+# CEEP PWA
 Código do curso *[Curso Progressive Web Apps: crie apps offline](https://cursos.alura.com.br/course/progressive-webapp-offline)*
 
 ## Development Environment Setup:
