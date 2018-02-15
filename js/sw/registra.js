@@ -1,1 +1,3 @@
-navigator.serviceWorker.register('service-worker.js')
+if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('service-worker.js')
+}
